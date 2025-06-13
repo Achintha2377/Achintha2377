@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate Software Engineer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 
 <p>I'm Buddhika Achintha, a passionate and dedicated Software Engineering student from Sri Lanka 🇱🇰. I enjoy building web applications and solving real-world problems through code. With hands-on experience in Laravel, PHP, and C#, I’ve worked on several full-stack projects, from student systems to hotel booking apps. I'm always eager to learn new technologies and improve my skills through continuous learning and collaboration. I also enjoy working on creative side projects and sharing knowledge with others.</p>
