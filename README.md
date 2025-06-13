@@ -12,7 +12,10 @@
 <h3 align="center">A passionate Software Engineer </h3>
 
 
-<p>I'm Buddhika Achintha, a passionate and dedicated Software Engineering student from Sri Lanka 🇱🇰. I enjoy building web applications and solving real-world problems through code. With hands-on experience in Laravel, PHP, and C#, I’ve worked on several full-stack projects, from student systems to hotel booking apps. I'm always eager to learn new technologies and improve my skills through continuous learning and collaboration. I also enjoy working on creative side projects and sharing knowledge with others.</p>
+<p>
+I'm Buddhika Achintha, a passionate and dedicated Software Engineer. I enjoy building web applications and solving real-world problems through code. With hands-on experience in PHP, C#, Laravel, and .NET, I’ve developed several full-stack projects — from HR systems to land sales platforms. I'm always eager to explore new technologies, improve my skills, and collaborate with others. I also love working on creative side projects and sharing what I learn along the way.
+</p>
+
 
 <div style="text-align: left;">
   <h2>🛠️ My Projects</h2>
