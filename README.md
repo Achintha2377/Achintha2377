@@ -13,8 +13,9 @@
 
 
 <p>
-I'm Buddhika Achintha, a passionate and dedicated Software Engineer. I enjoy building web applications and solving real-world problems through code. With hands-on experience in PHP, C#, Laravel, and .NET, I’ve developed several full-stack projects — from HR systems to land sales platforms. I'm always eager to explore new technologies, improve my skills, and collaborate with others. I also love working on creative side projects and sharing what I learn along the way.
+A passionate Software Engineer, I'm Buddhika Achintha. I enjoy building web applications and solving real-world problems through code. With hands-on experience in PHP, C#, Laravel, and .NET, I’ve developed multiple full-stack projects. I'm always eager to explore new technologies, improve my skills, and collaborate with others. I also love working on creative side projects and sharing what I learn along the way.
 </p>
+
 
 
 <div style="text-align: left;">
